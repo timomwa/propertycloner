@@ -1,0 +1,61 @@
+{
+	"dieselCars" : [
+					{
+						"id": 563,
+						"wheelCount": "4",
+						"paintCode": "R94, R94 - 2, R94-2, R94X",
+						"sideMirrorStyle": "short bunny",
+						"seatColor": "YR562PX",
+						"upholsteryColorCode": "AY112AXR",
+						"groundClearance": 145,
+						"steeringWheelDiameter": 166,
+						"wheelSize": 17,
+						"engineCapacity": 2999,
+						"fuelTankCapacity": 70,
+						"horsePower" : 230,
+						"lbTorque" : 190
+					},{
+						"id": 564,
+						"wheelCount": "4",
+						"paintCode": "YR562P",
+						"sideMirrorStyle": "short bunny",
+						"seatColor": "NH830M",
+						"upholsteryColorCode": "AY096KAR",
+						"groundClearance": 156,
+						"steeringWheelDiameter": 155,
+						"wheelSize": 22,
+						"engineCapacity": 4800,
+						"fuelTankCapacity": 90,
+						"horsePower" : 330,
+						"lbTorque" : 290
+					},{
+						"id": 565,
+						"wheelCount": "4",
+						"paintCode": "NH583M",
+						"sideMirrorStyle": "long cat",
+						"seatColor": "NH797M",
+						"upholsteryColorCode": "AY111LAU",
+						"groundClearance": 126,
+						"steeringWheelDiameter": 165,
+						"wheelSize": 20,
+						"engineCapacity": 2500,
+						"fuelTankCapacity": 70,
+						"horsePower" : 270,
+						"lbTorque" : 210
+					},{
+						"id": 566,
+						"wheelCount": "4",
+						"paintCode": "B612P",
+						"sideMirrorStyle": "sport glow",
+						"seatColor": "NH731P",
+						"upholsteryColorCode": "AY112KCL",
+						"groundClearance": 166,
+						"steeringWheelDiameter": 160,
+						"wheelSize": 19,
+						"engineCapacity": 3400,
+						"fuelTankCapacity": 90,
+						"horsePower" : 290,
+						"lbTorque" : 250
+					}
+				]
+}
