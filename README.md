@@ -126,10 +126,10 @@ However, this library can ease the task by;
 		electricCarConvert.setLbTorque( 590 );
 		
 
-As you can see above, no need explicitly call the getters and setter methods of any  class, 
+As you can see above, no need to explicitly call the getters and setter methods of any class, 
 except for the values that have `@Ignore` annotation.
 
-This should save you time when refactoing legacy code.
+This should save you time when refactoring legacy code.
 
 
 
