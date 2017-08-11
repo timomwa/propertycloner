@@ -1,5 +1,5 @@
 # PropertyCloner
-For lack of a better word, this is a utility to help you copy values from one class to another
+For lack of a better word, this is a utility to help you copy values from one entity to another
 using annotations instead of writing code to copy values one-by one.
 
 
@@ -91,7 +91,9 @@ However, this library can ease the task by;
 
 	..
 	import ke.co.technovation.annotations.Ignore;
+	
 	import ke.co.technovation.annotations.Transferable;
+	
 	..
 	..
 	
